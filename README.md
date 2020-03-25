@@ -24,3 +24,11 @@ The challenge is to output a lowest lexographically sorted string from an origin
 If K is greater than one, the lowest lexigraphically sorted string will be a sorted string. 
 
 If K is one, the lowest lexigraphically sorted string will be the string shifted to where the lowest lexigraphical string starts. The lowest lexigraphical is determined by comparing the following characters of each lowest character, where lowest is alphabetical (ie. 'a' is absolute smallest). 
+
+## Running
+
+Requires Node.js. In the console in the directory of the project, run:
+
+```powershell
+node app.js
+```
